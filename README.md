@@ -1,4 +1,4 @@
-# Self Taught Web and Mobile Development
+# Learning to Build Apps
 ## Example code from the book
 
 The code is organized into folders for each chapter. 
